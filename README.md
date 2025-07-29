@@ -1,3 +1,5 @@
+# Update: See https://github.com/Nathanjms/laravel-docker-template for what I consider the easiest way to deploy laravel projects on Coolify, any questons please leave an issue over there!
+
 # Laravel Coolify Example with Horizon
 
 The magic comes from the `nixpacks.toml` file, which was based on the one provided by [@marcfowler](https://github.com/marcfowler) at https://github.com/coollabsio/coolify/discussions/2156.
